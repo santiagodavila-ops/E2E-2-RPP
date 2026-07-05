@@ -90,3 +90,10 @@ src/
 3. La pestaña del pasajero se actualiza sola (polling) y muestra al conductor.
 4. Conductor → "Completar viaje".
 5. Pasajero → aparece el formulario de calificación (1–5 ★). Al enviar, el rating del conductor se actualiza.
+
+## Requisitos
+
+Miemros:
+-Sandra Sofia Alvarez Lovera
+-Denilson Jermai Cuadros Villegas
+-Santiago Sebastián Dávila Bazán 
