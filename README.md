@@ -94,6 +94,6 @@ src/
 ## Requisitos
 
 Miemros:
--Sandra Sofia Alvarez Lovera
--Denilson Jermai Cuadros Villegas
--Santiago Sebastián Dávila Bazán 
+- Sandra Sofia Alvarez Lovera
+- Denilson Jermai Cuadros Villegas
+- Santiago Sebastián Dávila Bazán 
